@@ -86,7 +86,9 @@ As we know social media is a become more and more popular in the world. every on
 So if you want to also implement login with google gmail account then i will help you step by step instruction. let's follow tutorial and implement it.
 
 Step 1 : composer create-project --prefer-dist laravel/laravel googleLogin
+
 Step 2 : composer require laravel/socialite
+
 Step 3 : Now open config/app.php file and add service provider and aliase. 
 
     'providers' => [
